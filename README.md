@@ -1,4 +1,4 @@
-# Porsche Sales Intelligence Dashboard
+# Porsche Luxury Dashboard
 
 Projeto de Business Intelligence desenvolvido para tratamento, padronização e análise de dados de vendas da Porsche utilizando Python, Excel, HTML, CSS e JavaScript. O objetivo é transformar uma base de dados desestruturada em um dashboard executivo interativo, fornecendo indicadores estratégicos para apoiar a tomada de decisão.
 
