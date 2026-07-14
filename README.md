@@ -1,8 +1,8 @@
 # Porsche Sales Intelligence Dashboard
 
-Projeto de Business Intelligence desenvolvido para tratamento, padronização e análise de dados de vendas da Porsche, utilizando Python, Excel, HTML, CSS e JavaScript. O objetivo é transformar uma base de dados desestruturada em um dashboard executivo interativo, fornecendo indicadores estratégicos para apoiar a tomada de decisão.
+Projeto de Business Intelligence desenvolvido para tratamento, padronização e análise de dados de vendas da Porsche utilizando Python, Excel, HTML, CSS e JavaScript. O objetivo é transformar uma base de dados desestruturada em um dashboard executivo interativo, fornecendo indicadores estratégicos para apoiar a tomada de decisão.
 
-O projeto contempla um processo completo de ETL (Extract, Transform, Load), realizando a sanitização dos dados, padronização das informações e geração de um painel visual inspirado na identidade da Porsche, com foco em uma experiência premium e sofisticada.
+O projeto contempla um processo completo de ETL (Extract, Transform, Load), realizando a sanitização dos dados, a padronização das informações e a geração de um painel visual inspirado na identidade da Porsche, com foco em uma experiência premium e sofisticada.
 
 ## Funcionalidades
 
@@ -31,10 +31,10 @@ O projeto contempla um processo completo de ETL (Extract, Transform, Load), real
 O dashboard responde às seguintes questões:
 
 - Quais são os modelos Porsche mais vendidos por cidade?
-- Qual ano de modelo apresentou maior volume de vendas?
+- Qual ano de modelo apresentou o maior volume de vendas?
 - Quais cidades concentram as maiores vendas?
 - Quais veículos possuem maior popularidade em cada região?
-- Qual método de pagamento é mais utilizado?
+- Qual método de pagamento é o mais utilizado?
 
 ## Tecnologias Utilizadas
 
@@ -53,4 +53,10 @@ Desenvolver uma solução completa de Business Intelligence capaz de transformar
 
 ## Desenvolvimento
 
-Este projeto foi produzido durante a **Aceleração: AI Reports com Excel, GPT Agents e Claude Code**, promovida pela **DIO (Digital Innovation One)** em parceria com a **Santander Open Academy**.
+Este projeto foi desenvolvido durante a **Aceleração: AI Reports com Excel, GPT Agents e Claude Code**, promovida pela **DIO (Digital Innovation One)** em parceria com a **Santander Open Academy**.
+
+## Demonstração
+
+O dashboard pode ser acessado em:
+
+**https://aline-drong.github.io/Porsche_Luxury_Dashboard/**
